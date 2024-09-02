@@ -1,0 +1,22 @@
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+.playwrite-es-font {
+  font-family: "Playwrite ES", cursive;
+  font-style: normal;
+}
+
+/* another css start */
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.skill:hover,
+.resume-column:hover {
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+}
